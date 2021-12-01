@@ -1,2 +1,2 @@
-# Week1-Class-2
+# Week1-Class2
 First Repo
